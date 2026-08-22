@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/Buoi 1/">
+  <Folder Name="/OOP-Thinh/" />
+  <Folder Name="/OOP-Thinh/Buoi 1/">
     <Project Path="OOP-Thinh/OOP-Thinh.csproj" />
   </Folder>
+  <Folder Name="/OOP-Thinh/Buoi 2/" />
 </Solution>
