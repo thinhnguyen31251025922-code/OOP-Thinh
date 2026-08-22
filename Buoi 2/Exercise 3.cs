@@ -55,7 +55,7 @@ class Program
         };
 
         // Attempting to modify AccountId after creation should fail compilation!
-        // user.AccountId = "ACC-00000"; // UNCOMMENT TO VERIFY COMPILER ERROR
+        user.AccountId = "ACC-00000"; // UNCOMMENT TO VERIFY COMPILER ERROR
 
         Console.WriteLine($"Account ID: {user.AccountId}");
         Console.WriteLine($"Username: {user.Username}");
