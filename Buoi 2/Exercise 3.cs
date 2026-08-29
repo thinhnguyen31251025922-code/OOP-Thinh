@@ -42,7 +42,7 @@ namespace System.Runtime.CompilerServices
 }
 class Program
 {
-    static void Main(string[] args)
+    static void Main3(string[] args)
     {
         // --- TEST HARNESS ---
 
