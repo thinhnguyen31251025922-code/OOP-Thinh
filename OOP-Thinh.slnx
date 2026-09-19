@@ -3,6 +3,9 @@
   <Folder Name="/OOP-Thinh/2/">
     <Project Path="Buoi 2/Buoi 2.csproj" Id="edf04f4a-f074-425f-9f19-e9999ed3efc1" />
   </Folder>
+  <Folder Name="/OOP-Thinh/BT/">
+    <Project Path="BaiTap1/BaiTap1.csproj" Id="068ebda3-2422-460f-94ac-9f678c832e32" />
+  </Folder>
   <Folder Name="/OOP-Thinh/Buoi 1/">
     <Project Path="Buoi 1/OOP-Thinh.csproj" Id="42cdadf0-c474-42b2-bae5-af98130601e4" />
   </Folder>
